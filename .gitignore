@@ -1,0 +1,6 @@
+api/.env
+api/__pycache__/
+api/db.sqlite3f
+api/.DS_Store
+frontend/.DS_Store
+.DS_Store
